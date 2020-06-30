@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://github.com/claudiopelizari/game-dev-alura/blob/master/imagens/readme.jpg" alt="" width="100%">
   Imersão Gamedev Javascript<br><br>
+  <img src="https://github.com/claudiopelizari/game-dev-alura/blob/master/imagens/readme.jpg" alt="" width="100%">  
 </h1>
 
 <br><br>
@@ -19,7 +19,7 @@
 
 <br><br>
 <h1 align="center">
-  Game Over<br><br>
+  Fim de Jogo<br><br>
   <img src="https://github.com/claudiopelizari/game-dev-alura/blob/master/imagens/game-over.jpg" alt="" width="100%">  
 </h1>
 
@@ -32,7 +32,7 @@
     <li>Css</li>
     <li>JavaScript</li>
     <li>p5.js</li>    
-</ul><br><br>
+</ul>
 
 ## Jogar 
 
