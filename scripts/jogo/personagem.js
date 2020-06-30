@@ -41,7 +41,9 @@ class Personagem extends Animacao {
       return false
     }
     
+    
     const precisao = .7
+    noFill();
     const colisao = collideRectRect(
       this.x, 
       this.y, 

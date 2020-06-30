@@ -1,4 +1,20 @@
-let imagemCenario;
+//Paralax 
+let imageGameBackground_1;
+let imageGameBackground_2;
+let imageGameBackground_3;
+let imageGameBackground_4;
+let imageGameBackground_5;
+
+let background_1;
+let background_2;
+let background_3;
+let background_4;
+let background_5;
+// Fim Paralax
+
+
+
+//let imagemCenario;
 let imagemPersonagem;
 let imagemInimigo;
 let imagemInimigoGrande;
@@ -17,7 +33,7 @@ let telaInicial;
 let botaoGerenciador;
 let vida
 
-let cenario;
+//let cenario;
 let somDoJogo;
 let personagem;
 let inimigo;
@@ -25,6 +41,9 @@ let inimigoGrande;
 let inimigoVoador;
 let pontuacao;
 
+let movimento = 0;
+let gameOver = false;
+let gamePaused = false;
 
 const matrizInimigo = [
   [0, 0],

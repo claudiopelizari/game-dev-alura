@@ -8,7 +8,7 @@ canvas {
   display: block;
 }
 
-.botao-tela-inicial {
+.botao-tela-inicial, .botao-reiniciar {
   font-family: 'Luckiest Guy', cursive;
   padding: 1rem 1.25rem;
   font-size: 1.5rem;
@@ -21,7 +21,7 @@ canvas {
   color: #fff;
 }
 
-.botao-tela-inicial:hover {
+.botao-tela-inicial:hover, .botao-reiniciar:hover {
   background-color: #ffc0c1;
   box-shadow: 2px 2px 0px 1px #b58a8a;
 }
